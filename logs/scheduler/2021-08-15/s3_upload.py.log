@@ -1,0 +1,635 @@
+[2021-08-15 00:35:15,114] {scheduler_job.py:181} INFO - Started process (PID=31036) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:35:15,115] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:35:15,116] {logging_mixin.py:104} INFO - [2021-08-15 00:35:15,116] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:35:15,214] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:35:15,223] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.111 seconds
+[2021-08-15 00:35:45,584] {scheduler_job.py:181} INFO - Started process (PID=31090) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:35:45,593] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:35:45,594] {logging_mixin.py:104} INFO - [2021-08-15 00:35:45,593] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:35:45,638] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:35:45,647] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.064 seconds
+[2021-08-15 00:36:15,800] {scheduler_job.py:181} INFO - Started process (PID=31159) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:36:15,801] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:36:15,802] {logging_mixin.py:104} INFO - [2021-08-15 00:36:15,802] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:36:15,844] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:36:15,853] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.055 seconds
+[2021-08-15 00:36:42,046] {scheduler_job.py:181} INFO - Started process (PID=31224) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:36:42,047] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:36:42,048] {logging_mixin.py:104} INFO - [2021-08-15 00:36:42,048] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:36:42,115] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:36:42,125] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.081 seconds
+[2021-08-15 00:37:12,375] {scheduler_job.py:181} INFO - Started process (PID=31279) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:37:12,376] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:37:12,377] {logging_mixin.py:104} INFO - [2021-08-15 00:37:12,377] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:37:12,425] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:37:12,435] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.062 seconds
+[2021-08-15 00:37:42,536] {scheduler_job.py:181} INFO - Started process (PID=31345) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:37:42,537] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:37:42,538] {logging_mixin.py:104} INFO - [2021-08-15 00:37:42,538] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:37:42,581] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:37:42,591] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.057 seconds
+[2021-08-15 00:37:46,618] {scheduler_job.py:181} INFO - Started process (PID=31347) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:37:46,620] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:37:46,621] {logging_mixin.py:104} INFO - [2021-08-15 00:37:46,621] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:37:46,696] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:37:46,705] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.090 seconds
+[2021-08-15 00:38:17,057] {scheduler_job.py:181} INFO - Started process (PID=31415) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:38:17,058] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:38:17,059] {logging_mixin.py:104} INFO - [2021-08-15 00:38:17,058] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:38:17,103] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:38:17,112] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.057 seconds
+[2021-08-15 00:38:47,175] {scheduler_job.py:181} INFO - Started process (PID=31481) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:38:47,176] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:38:47,177] {logging_mixin.py:104} INFO - [2021-08-15 00:38:47,177] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:38:47,219] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:38:47,228] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.054 seconds
+[2021-08-15 00:39:17,415] {scheduler_job.py:181} INFO - Started process (PID=31548) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:39:17,416] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:39:17,416] {logging_mixin.py:104} INFO - [2021-08-15 00:39:17,416] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:39:17,461] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:39:17,470] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.057 seconds
+[2021-08-15 00:39:47,643] {scheduler_job.py:181} INFO - Started process (PID=31603) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:39:47,644] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:39:47,645] {logging_mixin.py:104} INFO - [2021-08-15 00:39:47,645] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:39:47,688] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:39:47,697] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.056 seconds
+[2021-08-15 00:40:17,909] {scheduler_job.py:181} INFO - Started process (PID=31669) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:40:17,910] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:40:17,911] {logging_mixin.py:104} INFO - [2021-08-15 00:40:17,911] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:40:17,952] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:40:17,960] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.053 seconds
+[2021-08-15 00:40:48,238] {scheduler_job.py:181} INFO - Started process (PID=31734) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:40:48,239] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:40:48,240] {logging_mixin.py:104} INFO - [2021-08-15 00:40:48,240] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:40:48,288] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:40:48,297] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.061 seconds
+[2021-08-15 00:41:05,299] {scheduler_job.py:181} INFO - Started process (PID=31767) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:41:05,301] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:41:05,302] {logging_mixin.py:104} INFO - [2021-08-15 00:41:05,302] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:41:05,366] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:41:05,376] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.078 seconds
+[2021-08-15 00:41:35,528] {scheduler_job.py:181} INFO - Started process (PID=31834) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:41:35,529] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:41:35,530] {logging_mixin.py:104} INFO - [2021-08-15 00:41:35,530] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:41:35,585] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:41:35,600] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.074 seconds
+[2021-08-15 00:42:05,714] {scheduler_job.py:181} INFO - Started process (PID=31898) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:42:05,715] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:42:05,716] {logging_mixin.py:104} INFO - [2021-08-15 00:42:05,715] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:42:05,762] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:42:05,775] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.062 seconds
+[2021-08-15 00:42:35,956] {scheduler_job.py:181} INFO - Started process (PID=31950) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:42:35,958] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:42:35,959] {logging_mixin.py:104} INFO - [2021-08-15 00:42:35,959] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:42:36,000] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:42:36,012] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.058 seconds
+[2021-08-15 00:43:06,340] {scheduler_job.py:181} INFO - Started process (PID=32020) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:43:06,341] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:43:06,341] {logging_mixin.py:104} INFO - [2021-08-15 00:43:06,341] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:43:06,395] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:43:06,407] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.069 seconds
+[2021-08-15 00:43:36,658] {scheduler_job.py:181} INFO - Started process (PID=32087) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:43:36,659] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:43:36,660] {logging_mixin.py:104} INFO - [2021-08-15 00:43:36,660] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:43:36,708] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:43:36,723] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.067 seconds
+[2021-08-15 00:44:06,965] {scheduler_job.py:181} INFO - Started process (PID=32153) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:44:06,966] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:44:06,967] {logging_mixin.py:104} INFO - [2021-08-15 00:44:06,966] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:44:07,017] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:44:07,030] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.067 seconds
+[2021-08-15 00:44:37,132] {scheduler_job.py:181} INFO - Started process (PID=32207) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:44:37,132] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:44:37,133] {logging_mixin.py:104} INFO - [2021-08-15 00:44:37,133] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:44:37,181] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:44:37,192] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.062 seconds
+[2021-08-15 00:45:07,330] {scheduler_job.py:181} INFO - Started process (PID=32272) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:45:07,331] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:45:07,332] {logging_mixin.py:104} INFO - [2021-08-15 00:45:07,332] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:45:07,402] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:45:07,414] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.086 seconds
+[2021-08-15 00:45:37,911] {scheduler_job.py:181} INFO - Started process (PID=32339) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:45:37,912] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:45:37,912] {logging_mixin.py:104} INFO - [2021-08-15 00:45:37,912] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:45:37,976] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:45:37,987] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.078 seconds
+[2021-08-15 00:46:08,290] {scheduler_job.py:181} INFO - Started process (PID=32405) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:46:08,293] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:46:08,293] {logging_mixin.py:104} INFO - [2021-08-15 00:46:08,293] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:46:08,356] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:46:08,366] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.078 seconds
+[2021-08-15 00:46:38,518] {scheduler_job.py:181} INFO - Started process (PID=32459) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:46:38,519] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:46:38,520] {logging_mixin.py:104} INFO - [2021-08-15 00:46:38,520] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:46:38,565] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:46:38,576] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.060 seconds
+[2021-08-15 00:47:08,764] {scheduler_job.py:181} INFO - Started process (PID=32522) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:47:08,765] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:47:08,766] {logging_mixin.py:104} INFO - [2021-08-15 00:47:08,766] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:47:08,811] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:47:08,821] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.059 seconds
+[2021-08-15 00:47:39,109] {scheduler_job.py:181} INFO - Started process (PID=32588) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:47:39,111] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:47:39,112] {logging_mixin.py:104} INFO - [2021-08-15 00:47:39,112] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:47:39,172] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:47:39,182] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.075 seconds
+[2021-08-15 00:48:09,302] {scheduler_job.py:181} INFO - Started process (PID=32655) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:48:09,304] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:48:09,312] {logging_mixin.py:104} INFO - [2021-08-15 00:48:09,311] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:48:09,426] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:48:09,438] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.138 seconds
+[2021-08-15 00:48:39,509] {scheduler_job.py:181} INFO - Started process (PID=32713) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:48:39,510] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:48:39,511] {logging_mixin.py:104} INFO - [2021-08-15 00:48:39,511] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:48:39,563] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:48:39,579] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.072 seconds
+[2021-08-15 00:49:09,852] {scheduler_job.py:181} INFO - Started process (PID=32778) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:49:09,853] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:49:09,855] {logging_mixin.py:104} INFO - [2021-08-15 00:49:09,855] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:49:09,915] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:49:09,927] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.076 seconds
+[2021-08-15 00:49:40,068] {scheduler_job.py:181} INFO - Started process (PID=32843) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:49:40,070] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:49:40,071] {logging_mixin.py:104} INFO - [2021-08-15 00:49:40,071] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:49:40,122] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:49:40,139] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.072 seconds
+[2021-08-15 00:50:10,231] {scheduler_job.py:181} INFO - Started process (PID=32898) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:50:10,232] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:50:10,233] {logging_mixin.py:104} INFO - [2021-08-15 00:50:10,232] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:50:10,286] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:50:10,298] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.069 seconds
+[2021-08-15 00:50:40,771] {scheduler_job.py:181} INFO - Started process (PID=32966) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:50:40,772] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:50:40,772] {logging_mixin.py:104} INFO - [2021-08-15 00:50:40,772] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:50:40,821] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:50:40,830] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.061 seconds
+[2021-08-15 00:51:11,080] {scheduler_job.py:181} INFO - Started process (PID=33033) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:51:11,081] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:51:11,082] {logging_mixin.py:104} INFO - [2021-08-15 00:51:11,082] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:51:11,129] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:51:11,139] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.060 seconds
+[2021-08-15 00:51:41,407] {scheduler_job.py:181} INFO - Started process (PID=33100) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:51:41,410] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:51:41,411] {logging_mixin.py:104} INFO - [2021-08-15 00:51:41,411] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:51:41,455] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:51:41,462] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.057 seconds
+[2021-08-15 00:52:11,625] {scheduler_job.py:181} INFO - Started process (PID=33157) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:52:11,626] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:52:11,627] {logging_mixin.py:104} INFO - [2021-08-15 00:52:11,627] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:52:11,670] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:52:11,678] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.054 seconds
+[2021-08-15 00:52:41,919] {scheduler_job.py:181} INFO - Started process (PID=33223) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:52:41,920] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:52:41,921] {logging_mixin.py:104} INFO - [2021-08-15 00:52:41,921] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:52:41,976] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:52:41,986] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.069 seconds
+[2021-08-15 00:53:12,218] {scheduler_job.py:181} INFO - Started process (PID=33291) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:53:12,219] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:53:12,220] {logging_mixin.py:104} INFO - [2021-08-15 00:53:12,220] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:53:12,275] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:53:12,285] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.071 seconds
+[2021-08-15 00:53:42,353] {scheduler_job.py:181} INFO - Started process (PID=33357) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:53:42,354] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:53:42,355] {logging_mixin.py:104} INFO - [2021-08-15 00:53:42,355] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:53:42,398] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:53:42,407] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.056 seconds
+[2021-08-15 00:54:12,647] {scheduler_job.py:181} INFO - Started process (PID=33410) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:54:12,648] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:54:12,649] {logging_mixin.py:104} INFO - [2021-08-15 00:54:12,649] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:54:12,710] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:54:12,721] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.076 seconds
+[2021-08-15 00:54:42,885] {scheduler_job.py:181} INFO - Started process (PID=33474) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:54:42,886] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:54:42,887] {logging_mixin.py:104} INFO - [2021-08-15 00:54:42,887] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:54:42,933] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:54:42,945] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.062 seconds
+[2021-08-15 00:54:46,070] {scheduler_job.py:181} INFO - Started process (PID=33479) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:54:46,071] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:54:46,071] {logging_mixin.py:104} INFO - [2021-08-15 00:54:46,071] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:54:48,147] {logging_mixin.py:104} INFO - [2021-08-15 00:54:48,146] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/s3_upload.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/s3_upload.py", line 18, in <module>
+    pushS3()
+  File "/opt/airflow/dags/s3_upload.py", line 9, in pushS3
+    print(credentials.access_key)
+AttributeError: 'NoneType' object has no attribute 'access_key'
+[2021-08-15 00:54:48,148] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:54:48,160] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 2.092 seconds
+[2021-08-15 00:55:18,398] {scheduler_job.py:181} INFO - Started process (PID=33548) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:55:18,399] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:55:18,400] {logging_mixin.py:104} INFO - [2021-08-15 00:55:18,400] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:55:20,471] {logging_mixin.py:104} INFO - [2021-08-15 00:55:20,462] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/s3_upload.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/s3_upload.py", line 18, in <module>
+  File "/opt/airflow/dags/s3_upload.py", line 9, in pushS3
+    client=boto3.client('s3',aws_access_key_id=credentials.access_key, aws_secret_access_key=credentials.secret_key)
+AttributeError: 'NoneType' object has no attribute 'access_key'
+[2021-08-15 00:55:20,473] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:55:20,485] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 2.089 seconds
+[2021-08-15 00:55:50,705] {scheduler_job.py:181} INFO - Started process (PID=33614) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:55:50,706] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:55:50,707] {logging_mixin.py:104} INFO - [2021-08-15 00:55:50,707] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:55:52,776] {logging_mixin.py:104} INFO - [2021-08-15 00:55:52,774] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/s3_upload.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/s3_upload.py", line 17, in <module>
+    pushS3()
+  File "/opt/airflow/dags/s3_upload.py", line 9, in pushS3
+    client=boto3.client('s3',aws_access_key_id=credentials.access_key, aws_secret_access_key=credentials.secret_key)
+AttributeError: 'NoneType' object has no attribute 'access_key'
+[2021-08-15 00:55:52,778] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:55:52,791] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 2.087 seconds
+[2021-08-15 00:56:23,040] {scheduler_job.py:181} INFO - Started process (PID=33682) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:56:23,041] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:56:23,042] {logging_mixin.py:104} INFO - [2021-08-15 00:56:23,042] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:56:25,101] {logging_mixin.py:104} INFO - [2021-08-15 00:56:25,100] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/s3_upload.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/s3_upload.py", line 17, in <module>
+    pushS3()
+  File "/opt/airflow/dags/s3_upload.py", line 9, in pushS3
+    client=boto3.client('s3',aws_access_key_id=credentials.access_key, aws_secret_access_key=credentials.secret_key)
+AttributeError: 'NoneType' object has no attribute 'access_key'
+[2021-08-15 00:56:25,102] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:56:25,114] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 2.075 seconds
+[2021-08-15 00:56:55,214] {scheduler_job.py:181} INFO - Started process (PID=33749) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:56:55,217] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:56:55,219] {logging_mixin.py:104} INFO - [2021-08-15 00:56:55,219] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:56:57,301] {logging_mixin.py:104} INFO - [2021-08-15 00:56:57,299] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/s3_upload.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/s3_upload.py", line 17, in <module>
+    pushS3()
+  File "/opt/airflow/dags/s3_upload.py", line 9, in pushS3
+    client=boto3.client('s3',aws_access_key_id=credentials.access_key, aws_secret_access_key=credentials.secret_key)
+AttributeError: 'NoneType' object has no attribute 'access_key'
+[2021-08-15 00:56:57,302] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:56:57,317] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 2.104 seconds
+[2021-08-15 00:57:03,310] {scheduler_job.py:181} INFO - Started process (PID=33763) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:57:03,311] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:57:03,312] {logging_mixin.py:104} INFO - [2021-08-15 00:57:03,312] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:57:03,380] {logging_mixin.py:104} INFO - [2021-08-15 00:57:03,378] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/s3_upload.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/s3_upload.py", line 17, in <module>
+    pushS3()
+  File "/opt/airflow/dags/s3_upload.py", line 9, in pushS3
+    client=boto3.client('s3',aws_access_key_id='AKIAVOAQA3636BTME5GY', aws_secret_access_key=credentials.secret_key)
+AttributeError: 'NoneType' object has no attribute 'secret_key'
+[2021-08-15 00:57:03,381] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:57:03,394] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.085 seconds
+[2021-08-15 00:57:14,191] {scheduler_job.py:181} INFO - Started process (PID=33796) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:57:14,192] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:57:14,192] {logging_mixin.py:104} INFO - [2021-08-15 00:57:14,192] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:57:14,200] {logging_mixin.py:104} INFO - [2021-08-15 00:57:14,199] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/s3_upload.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/s3_upload.py", line 9
+    client=boto3.client('s3',aws_access_key_id='AKIAVOAQA3636BTME5GY', aws_secret_access_key='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'')
+                                                                                                                                        ^
+SyntaxError: EOL while scanning string literal
+[2021-08-15 00:57:14,201] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:57:14,214] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.025 seconds
+[2021-08-15 00:57:44,394] {scheduler_job.py:181} INFO - Started process (PID=33851) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:57:44,395] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:57:44,396] {logging_mixin.py:104} INFO - [2021-08-15 00:57:44,396] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:57:44,402] {logging_mixin.py:104} INFO - [2021-08-15 00:57:44,402] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/s3_upload.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/s3_upload.py", line 9
+    client=boto3.client('s3',aws_access_key_id='AKIAVOAQA3636BTME5GY', aws_secret_access_key='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'')
+                                                                                                                                        ^
+SyntaxError: EOL while scanning string literal
+[2021-08-15 00:57:44,403] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:57:44,417] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.025 seconds
+[2021-08-15 00:58:14,667] {scheduler_job.py:181} INFO - Started process (PID=33916) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:58:14,669] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:58:14,669] {logging_mixin.py:104} INFO - [2021-08-15 00:58:14,669] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:58:14,676] {logging_mixin.py:104} INFO - [2021-08-15 00:58:14,675] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/s3_upload.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/s3_upload.py", line 9
+    client=boto3.client('s3',aws_access_key_id='AKIAVOAQA3636BTME5GY', aws_secret_access_key='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'')
+                                                                                                                                        ^
+SyntaxError: EOL while scanning string literal
+[2021-08-15 00:58:14,679] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:58:14,694] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.030 seconds
+[2021-08-15 00:58:44,865] {scheduler_job.py:181} INFO - Started process (PID=33981) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:58:44,867] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:58:44,867] {logging_mixin.py:104} INFO - [2021-08-15 00:58:44,867] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:58:44,873] {logging_mixin.py:104} INFO - [2021-08-15 00:58:44,872] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/s3_upload.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/s3_upload.py", line 9
+    client=boto3.client('s3',aws_access_key_id='AKIAVOAQA3636BTME5GY', aws_secret_access_key='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'')
+                                                                                                                                        ^
+SyntaxError: EOL while scanning string literal
+[2021-08-15 00:58:44,874] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:58:44,888] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.024 seconds
+[2021-08-15 00:59:15,329] {scheduler_job.py:181} INFO - Started process (PID=34048) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:59:15,330] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:59:15,331] {logging_mixin.py:104} INFO - [2021-08-15 00:59:15,330] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:59:15,336] {logging_mixin.py:104} INFO - [2021-08-15 00:59:15,335] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/s3_upload.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/s3_upload.py", line 9
+    client=boto3.client('s3',aws_access_key_id='AKIAVOAQA3636BTME5GY', aws_secret_access_key='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'')
+                                                                                                                                        ^
+SyntaxError: EOL while scanning string literal
+[2021-08-15 00:59:15,337] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:59:15,356] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.029 seconds
+[2021-08-15 00:59:45,714] {scheduler_job.py:181} INFO - Started process (PID=34103) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:59:45,716] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 00:59:45,716] {logging_mixin.py:104} INFO - [2021-08-15 00:59:45,716] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:59:45,721] {logging_mixin.py:104} INFO - [2021-08-15 00:59:45,721] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/s3_upload.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/s3_upload.py", line 9
+    client=boto3.client('s3',aws_access_key_id='AKIAVOAQA3636BTME5GY', aws_secret_access_key='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'')
+                                                                                                                                        ^
+SyntaxError: EOL while scanning string literal
+[2021-08-15 00:59:45,722] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 00:59:45,737] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.024 seconds
+[2021-08-15 01:00:16,063] {scheduler_job.py:181} INFO - Started process (PID=34166) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:00:16,065] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 01:00:16,065] {logging_mixin.py:104} INFO - [2021-08-15 01:00:16,065] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:00:16,070] {logging_mixin.py:104} INFO - [2021-08-15 01:00:16,069] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/s3_upload.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/s3_upload.py", line 9
+    client=boto3.client('s3',aws_access_key_id='AKIAVOAQA3636BTME5GY', aws_secret_access_key='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'')
+                                                                                                                                        ^
+SyntaxError: EOL while scanning string literal
+[2021-08-15 01:00:16,071] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:00:16,088] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.026 seconds
+[2021-08-15 01:00:46,479] {scheduler_job.py:181} INFO - Started process (PID=34235) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:00:46,480] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 01:00:46,481] {logging_mixin.py:104} INFO - [2021-08-15 01:00:46,480] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:00:46,485] {logging_mixin.py:104} INFO - [2021-08-15 01:00:46,485] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/s3_upload.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/s3_upload.py", line 9
+    client=boto3.client('s3',aws_access_key_id='AKIAVOAQA3636BTME5GY', aws_secret_access_key='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'')
+                                                                                                                                        ^
+SyntaxError: EOL while scanning string literal
+[2021-08-15 01:00:46,486] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:00:46,499] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.022 seconds
+[2021-08-15 01:01:16,885] {scheduler_job.py:181} INFO - Started process (PID=34302) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:01:16,887] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 01:01:16,888] {logging_mixin.py:104} INFO - [2021-08-15 01:01:16,888] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:01:16,891] {logging_mixin.py:104} INFO - [2021-08-15 01:01:16,891] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/s3_upload.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/s3_upload.py", line 9
+    client=boto3.client('s3',aws_access_key_id='AKIAVOAQA3636BTME5GY', aws_secret_access_key='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'')
+                                                                                                                                        ^
+SyntaxError: EOL while scanning string literal
+[2021-08-15 01:01:16,892] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:01:16,911] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.030 seconds
+[2021-08-15 01:01:47,202] {scheduler_job.py:181} INFO - Started process (PID=34357) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:01:47,203] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 01:01:47,204] {logging_mixin.py:104} INFO - [2021-08-15 01:01:47,204] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:01:47,208] {logging_mixin.py:104} INFO - [2021-08-15 01:01:47,207] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/s3_upload.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/s3_upload.py", line 9
+    client=boto3.client('s3',aws_access_key_id='AKIAVOAQA3636BTME5GY', aws_secret_access_key='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'')
+                                                                                                                                        ^
+SyntaxError: EOL while scanning string literal
+[2021-08-15 01:01:47,210] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:01:47,223] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.023 seconds
+[2021-08-15 01:02:17,551] {scheduler_job.py:181} INFO - Started process (PID=34423) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:02:17,553] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 01:02:17,554] {logging_mixin.py:104} INFO - [2021-08-15 01:02:17,554] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:02:17,558] {logging_mixin.py:104} INFO - [2021-08-15 01:02:17,557] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/s3_upload.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/s3_upload.py", line 9
+    client=boto3.client('s3',aws_access_key_id='AKIAVOAQA3636BTME5GY', aws_secret_access_key='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'')
+                                                                                                                                        ^
+SyntaxError: EOL while scanning string literal
+[2021-08-15 01:02:17,560] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:02:17,573] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.024 seconds
+[2021-08-15 01:02:47,868] {scheduler_job.py:181} INFO - Started process (PID=34490) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:02:47,870] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 01:02:47,870] {logging_mixin.py:104} INFO - [2021-08-15 01:02:47,870] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:02:47,874] {logging_mixin.py:104} INFO - [2021-08-15 01:02:47,874] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/s3_upload.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/s3_upload.py", line 9
+    client=boto3.client('s3',aws_access_key_id='AKIAVOAQA3636BTME5GY', aws_secret_access_key='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'')
+                                                                                                                                        ^
+SyntaxError: EOL while scanning string literal
+[2021-08-15 01:02:47,875] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:02:47,890] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.024 seconds
+[2021-08-15 01:03:18,178] {scheduler_job.py:181} INFO - Started process (PID=34544) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:03:18,179] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 01:03:18,180] {logging_mixin.py:104} INFO - [2021-08-15 01:03:18,180] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:03:18,184] {logging_mixin.py:104} INFO - [2021-08-15 01:03:18,184] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/s3_upload.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/s3_upload.py", line 9
+    client=boto3.client('s3',aws_access_key_id='AKIAVOAQA3636BTME5GY', aws_secret_access_key='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'')
+                                                                                                                                        ^
+SyntaxError: EOL while scanning string literal
+[2021-08-15 01:03:18,186] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:03:18,202] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.025 seconds
+[2021-08-15 01:03:48,441] {scheduler_job.py:181} INFO - Started process (PID=34607) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:03:48,441] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 01:03:48,442] {logging_mixin.py:104} INFO - [2021-08-15 01:03:48,442] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:03:48,447] {logging_mixin.py:104} INFO - [2021-08-15 01:03:48,446] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/s3_upload.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/s3_upload.py", line 9
+    client=boto3.client('s3',aws_access_key_id='AKIAVOAQA3636BTME5GY', aws_secret_access_key='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'')
+                                                                                                                                        ^
+SyntaxError: EOL while scanning string literal
+[2021-08-15 01:03:48,448] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:03:48,460] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.021 seconds
+[2021-08-15 01:04:03,870] {scheduler_job.py:181} INFO - Started process (PID=34639) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:04:03,872] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 01:04:03,875] {logging_mixin.py:104} INFO - [2021-08-15 01:04:03,874] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:04:03,908] {logging_mixin.py:104} INFO - hi
+[2021-08-15 01:04:03,911] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:04:03,927] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.060 seconds
+[2021-08-15 01:04:34,181] {scheduler_job.py:181} INFO - Started process (PID=34691) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:04:34,182] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 01:04:34,183] {logging_mixin.py:104} INFO - [2021-08-15 01:04:34,183] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:04:34,189] {logging_mixin.py:104} INFO - hi
+[2021-08-15 01:04:34,190] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:04:34,200] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.021 seconds
+[2021-08-15 01:05:04,551] {scheduler_job.py:181} INFO - Started process (PID=34754) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:05:04,552] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 01:05:04,553] {logging_mixin.py:104} INFO - [2021-08-15 01:05:04,553] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:05:04,556] {logging_mixin.py:104} INFO - hi
+[2021-08-15 01:05:04,557] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:05:04,567] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.017 seconds
+[2021-08-15 01:05:32,782] {scheduler_job.py:181} INFO - Started process (PID=34819) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:05:32,783] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 01:05:32,784] {logging_mixin.py:104} INFO - [2021-08-15 01:05:32,784] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:05:32,790] {logging_mixin.py:104} INFO - [2021-08-15 01:05:32,790] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/s3_upload.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/s3_upload.py", line 9
+    client=boto3.client('s3',aws_access_key_id='AKIAVOAQA3636BTME5GY', aws_secret_access_key='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'')
+                                                                                                                                        ^
+SyntaxError: EOL while scanning string literal
+[2021-08-15 01:05:32,792] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:05:32,805] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.025 seconds
+[2021-08-15 01:05:59,039] {scheduler_job.py:181} INFO - Started process (PID=34873) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:05:59,041] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 01:05:59,042] {logging_mixin.py:104} INFO - [2021-08-15 01:05:59,041] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:05:59,105] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:05:59,119] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.082 seconds
+[2021-08-15 01:06:29,456] {scheduler_job.py:181} INFO - Started process (PID=34942) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:06:29,457] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 01:06:29,458] {logging_mixin.py:104} INFO - [2021-08-15 01:06:29,457] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:06:29,504] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:06:29,513] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.059 seconds
+[2021-08-15 01:06:59,657] {scheduler_job.py:181} INFO - Started process (PID=34996) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:06:59,658] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 01:06:59,659] {logging_mixin.py:104} INFO - [2021-08-15 01:06:59,659] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:06:59,702] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:06:59,711] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.056 seconds
+[2021-08-15 01:07:29,905] {scheduler_job.py:181} INFO - Started process (PID=35060) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:07:29,907] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 01:07:29,908] {logging_mixin.py:104} INFO - [2021-08-15 01:07:29,907] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:07:29,951] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:07:29,960] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.057 seconds
+[2021-08-15 01:08:00,109] {scheduler_job.py:181} INFO - Started process (PID=35124) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:08:00,110] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 01:08:00,111] {logging_mixin.py:104} INFO - [2021-08-15 01:08:00,111] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:08:00,152] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:08:00,162] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.055 seconds
+[2021-08-15 01:08:30,335] {scheduler_job.py:181} INFO - Started process (PID=35188) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:08:30,337] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 01:08:30,338] {logging_mixin.py:104} INFO - [2021-08-15 01:08:30,338] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:08:30,385] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:08:30,394] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.061 seconds
+[2021-08-15 01:09:00,423] {scheduler_job.py:181} INFO - Started process (PID=35243) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:09:00,424] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 01:09:00,425] {logging_mixin.py:104} INFO - [2021-08-15 01:09:00,425] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:09:00,467] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:09:00,476] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.055 seconds
+[2021-08-15 01:09:30,699] {scheduler_job.py:181} INFO - Started process (PID=35311) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:09:30,701] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 01:09:30,701] {logging_mixin.py:104} INFO - [2021-08-15 01:09:30,701] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:09:30,744] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:09:30,752] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.055 seconds
+[2021-08-15 01:09:32,750] {scheduler_job.py:181} INFO - Started process (PID=35312) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:09:32,752] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 01:09:32,753] {logging_mixin.py:104} INFO - [2021-08-15 01:09:32,753] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:09:35,487] {logging_mixin.py:104} INFO - [2021-08-15 01:09:35,486] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/s3_upload.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/s3_upload.py", line 18, in <module>
+    pushS3()
+  File "/opt/airflow/dags/s3_upload.py", line 13, in pushS3
+    with open("/usr/local/airflow/dags/data.csv","rb") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/usr/local/airflow/dags/data.csv'
+[2021-08-15 01:09:35,490] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:09:35,503] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 2.754 seconds
+[2021-08-15 01:10:06,056] {scheduler_job.py:181} INFO - Started process (PID=35379) to work on /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:10:06,058] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/s3_upload.py for tasks to queue
+[2021-08-15 01:10:06,058] {logging_mixin.py:104} INFO - [2021-08-15 01:10:06,058] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:10:06,062] {logging_mixin.py:104} INFO - [2021-08-15 01:10:06,062] {dagbag.py:308} INFO - File /opt/airflow/dags/s3_upload.py assumed to contain no DAGs. Skipping.
+[2021-08-15 01:10:06,063] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/s3_upload.py
+[2021-08-15 01:10:06,075] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/s3_upload.py took 0.020 seconds
